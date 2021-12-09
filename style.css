@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+}
+.baner{
+    float: left;
+    width: 100%;
+}
+
+.lewy{
+    float: left;
+    width: 19%;
+}
+.prawa{
+    float: left;
+    width: 40%;
+}
